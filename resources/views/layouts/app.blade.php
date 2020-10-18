@@ -15,7 +15,6 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/top.css') }}" rel="stylesheet">
     <link href="{{ asset('css/button.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/common.css') }}" rel="stylesheet">
     <link href="{{ asset('css/header.css') }}" rel="stylesheet">
     <link href="{{ asset('css/card_edit.css') }}" rel="stylesheet">
     <link href="{{ asset('css/card_new.css') }}" rel="stylesheet">
